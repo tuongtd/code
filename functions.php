@@ -24,3 +24,5 @@ function getLastUrl($url, $try = 1)
 
 	return $lastUrl;
 }
+
+echo getLastUrl('https://v.douyin.com/hjAAc2w/');
